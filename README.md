@@ -31,8 +31,8 @@
     <li>Karim bou shakra</li>
    <li>Ali serhan</li>
    <li>Omar el sobbahi</li>
-  <li>Nader </li>
-  <li>Hadi</li>
+  <li>Nader Allaeddine </li>
+  <li>Hadi dorra</li>
   </ul>
  and inspired by the fascinating world of astronomy.
   </p>
